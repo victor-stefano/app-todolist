@@ -4,7 +4,7 @@ O app consiste em uma lista de tarefas, onde o usuário pode registrar as ativid
 
 ## Acesso
 
-Acesse o app pela sua página do GitHub Pages através do link: https://victor-stefano.github.io/app-todolist/
+Acesse o app pela sua página do GitHub Pages através deste [link](https://victor-stefano.github.io/app-todolist/).
 
 ## Informações
 
